@@ -1,0 +1,43 @@
+{
+    "name": "Karmeleon #486",
+    "description": "The year is 3333. Humankind has vanished. Reptiles appear to be the new sole inhabitants of earth. An abandoned city, aka Karma City, fueled by a mysterious karmic power source sustained only by good vibes has been claimed by a group of chill lizards known as the Karmeleons, hellbent on looking dope and paying it forward.",
+    "image": "ipfs://QmWxKBgV4ACXbhAJBs8iojGSzYEVJw1ashCZvMYGXAq4Sf/486.png",
+    "dna": "1aa73e6eee9424425ff7cfec58019747badab172",
+    "edition": 486,
+    "date": 1643936854544,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gray Tats"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian Gutter"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Gold Chain"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Zen"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Gray Sweatband"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Gold Bar"
+        }
+    ],
+    "compiler": "Karmeleons Art Engine"
+}
