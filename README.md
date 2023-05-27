@@ -76,4 +76,4 @@ To make updates, pull down this repo and update the `.json` files belonging to t
 }
 ```
 
-I will update the `__CID__` values shortly. Thanks fam!
+Make sure the updated metadata has the same number in the `"name"` field as the one you're updating. I will update the `__CID__` values shortly. Thanks fam!
